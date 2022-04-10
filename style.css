@@ -1,0 +1,10 @@
+body{
+	background: grey;
+}
+
+ul#links li{
+	list-style:none;
+	margin-right:50px;
+	position:relative;
+	float:right;
+}
